@@ -2,7 +2,7 @@
 Emailowe Powiadomienia o Nowych Wpisach dla Użytkowników WordPress
 
 # Opis projektu
-en kod umożliwia automatyczne wysyłanie powiadomień e-mail do zarejestrowanych użytkowników strony WordPress po opublikowaniu nowego wpisu na blogu. Powiadomienia są wysyłane tylko do zalogowanych użytkowników o wybranych rolach. Kod dostosowuje adres nadawcy oraz nazwę nadawcy e-maili, a same wiadomości są formułowane w HTML z linkiem prowadzącym do najnowszego wpisu.
+Ten kod umożliwia automatyczne wysyłanie powiadomień e-mail do zarejestrowanych użytkowników strony WordPress po opublikowaniu nowego wpisu na blogu. Powiadomienia są wysyłane tylko do zalogowanych użytkowników o wybranych rolach. Kod dostosowuje adres nadawcy oraz nazwę nadawcy e-maili, a same wiadomości są formułowane w HTML z linkiem prowadzącym do najnowszego wpisu.
 
 ## Instalacja
 
